@@ -1,2 +1,10 @@
 # messierHunter
 A python script that generates a Messier logbook in latex format
+The idea of putting together this logbook came in to my mind after I observed my third Messier object in the night sky and I realized that it would be very hard to observe all the Messier objects without using a more structured approach. So the project for 2020 would be to observe all the Messier objects for a minimum of three times and each time to record the different parameters that might affect my observations like the seeing, the difficulty, the gear that I am using etc.  When I looked around in the Internet for a (free) messier logbook, I found out that none of them could possibly cover my needs (or at least some of them could partially cover them). So to describe my needs, I mean I need to have some informations about the object I am observing like its magnitude, its type and perhaps its location in the sky. I would also need a handy chart that would help me  locate each Messier object in the night sky and finally I would like to know what I am about to see through my scope in order to have a successful attempt. The most important thing I need is to have all these bind together for all Messier objects in a spiral logbook.  So I started writing this book in python (yes you read well in python) by using the pylatex library to generate the latex code and then  I compiled it to the logbook ythat you now read. 
+At the beginning of the book you will find for sky maps for each season of year showing the messier objects that are best to observe per season. Then, a list of 110 pages is following with each page  to be an input log for each Messier object based on the specs I discussed. At the bottom of the page there is some space extra  left for notes as well!   
+If you decide to use this little logbook I hope that it will help you with your observasions as much as I hope it will help me.   
+
+The Messier Database was taken from  www.astro-tom.com
+The Messier object images were taken from http://astropixels.com/
+The Star charts were taken from https://freestarcharts.com
+The cover image was taken from http://www.messier.seds.org/
